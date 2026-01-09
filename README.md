@@ -25,27 +25,27 @@ There are a number of books used as reference material, including:
 
 #### Part I: Introduction to Python and NumPy
 
-* [Week 1: Introduction to Python](https://colab.research.google.com/drive/1yLJw8c5D30IStzEzltmft8dlnsl3UZ0T?usp=sharing)
-* [Week 2: Exploring arrays using NumPy](https://colab.research.google.com/drive/1QtZxXR1Yh3VbjXMDzEtssJX9HoBY-epF)
-* [Week 3: Writing Functions in Python](https://colab.research.google.com/drive/1ogyjorRUpyAYIEwHu9zegRuWYbmBunn_?usp=sharing)
-* [Week 4: Lambda Functions in Python](https://colab.research.google.com/drive/1A-MGxZRLQM9696mmnCDywmC5dHeSaccG?usp=sharing)
-* [Week 5: Plotting and Visualisation](https://colab.research.google.com/drive/1yeCfgBopCJdjtoJqN9vB-2EQjF-7VyWL?usp=sharing)
+* [Topic 1: Introduction to Python](https://colab.research.google.com/drive/1yLJw8c5D30IStzEzltmft8dlnsl3UZ0T?usp=sharing)
+* [Topic 2: Exploring arrays using NumPy](https://colab.research.google.com/drive/1QtZxXR1Yh3VbjXMDzEtssJX9HoBY-epF)
+* [Topic 3: Writing Functions in Python](https://colab.research.google.com/drive/1ogyjorRUpyAYIEwHu9zegRuWYbmBunn_?usp=sharing)
+* [Topic 4: Lambda Functions in Python](https://colab.research.google.com/drive/1A-MGxZRLQM9696mmnCDywmC5dHeSaccG?usp=sharing)
+* [Topic 5: Plotting and Visualisation](https://colab.research.google.com/drive/1yeCfgBopCJdjtoJqN9vB-2EQjF-7VyWL?usp=sharing)
 
 
 #### Part II: Modelling using SciPy and NumPy
 
-* [Week 6: Introduction to Modelling using Stocks and Flows](https://colab.research.google.com/drive/1O0YOcW0AikQnIAbYiUsoEWQF490pYsq9?usp=sharing)
-* [Week 7: Mathematical Modelling with Python's odeint function](https://colab.research.google.com/drive/19d3RuwV4AtCMUotO-8XTWwOCSwGEH-Mv?usp=sharing)
-* [Week 8: Three ODE Modelling Case Studies](https://colab.research.google.com/drive/1x6oKDD5sWBvOk4BFAbM01f1U_oOdrz51?usp=sharing)
+* [Topic 6: Introduction to Modelling using Stocks and Flows](https://colab.research.google.com/drive/1O0YOcW0AikQnIAbYiUsoEWQF490pYsq9?usp=sharing)
+* [Topic 7: Mathematical Modelling with Python's odeint function](https://colab.research.google.com/drive/19d3RuwV4AtCMUotO-8XTWwOCSwGEH-Mv?usp=sharing)
+* [Topic 8: Three ODE Modelling Case Studies](https://colab.research.google.com/drive/1x6oKDD5sWBvOk4BFAbM01f1U_oOdrz51?usp=sharing)
 
 
 #### Part III: Data Science using pandas
 
-* [Week 9: Series and DataFrame objects in pandas](https://colab.research.google.com/drive/1UPn2Me1D1Qs-qe4TnnntGJEdUNzl9u12?usp=sharing)
+* [Topic 9: Series and DataFrame objects in pandas](https://colab.research.google.com/drive/1UPn2Me1D1Qs-qe4TnnntGJEdUNzl9u12?usp=sharing)
 
-* [Week 10: Grouping and Aggregating Data](https://colab.research.google.com/drive/1VkY7FZ3Qt2_F2vFJM2UFtH25XwVk59Vr?usp=sharing)
+* [Topic 10: Grouping and Aggregating Data](https://colab.research.google.com/drive/1VkY7FZ3Qt2_F2vFJM2UFtH25XwVk59Vr?usp=sharing)
 
-* [Week 11: Introduction to Linear Regression](https://colab.research.google.com/drive/1l_ulRq69EIHicGfX3J9uQ4A-32PXy35Z?usp=sharing)
+* [Topic 11: Introduction to Linear Regression](https://colab.research.google.com/drive/1l_ulRq69EIHicGfX3J9uQ4A-32PXy35Z?usp=sharing)
 
 
 
