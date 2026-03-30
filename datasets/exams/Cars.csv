@@ -1,0 +1,11 @@
+manufacturer,model,displ,cty,class
+audi,a4 quattro,1.8,16,compact
+audi,a4,1.8,21,compact
+dodge,dakota pickup 4wd,4.7,14,pickup
+dodge,ram 1500 pickup 4wd,4.7,9,pickup
+dodge,caravan 2wd,4,16,minivan
+ford,explorer 4wd,4.6,13,suv
+jeep,grand cherokee 4wd,4,15,suv
+toyota,toyota tacoma 4wd,2.7,16,pickup
+toyota,camry solara,3,18,compact
+volkswagen,jetta,2,22,compact
